@@ -65,3 +65,16 @@ footer {
   color: white;
   margin-top: 40px;
 }
+button {
+  background: #0a66c2;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background: #084a91;
+}
